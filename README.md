@@ -22,3 +22,10 @@ NOTE:
 This is currently a work-in-progress, meaning that I am adding things as I go. I am aiming to have some type of a prototype of it ready before the start of December 2024. My aim is to have a finished(ish) product ready for you guys to make by Christmas.
 
 I won't post any pages for ROMS or how to pirate games. It's up to you to figure out how you want to get your games.
+
+
+
+
+
+
+Hello, World
