@@ -11,6 +11,17 @@ HiLetgo 2.4" SPI TFT LCD Display 2.4 Inch ILI9341 Touch Panel LCD ILI9341 240x32
 
 16gb micro sd card (You can fit a hell of a lot of games on this)
 
+Screws (M2 x 3mm Screws
+        M2 x 8mm Screws
+        M2 x 4mm screws)
+You can probably buy a large kit of small screws on Amazon. If you want to indivudually buy them, I'd reccommend getting 10 of each as they are very cheap and you probably don't want to have to restart just because of not having enough screws.
+
+Tactile Switchs (Working on finding the exact ones)
+
+1200 mAh battery (Must be a specific form factor, will add that info when I can. I also have a link for these that I will add soon.)
+
+
+
 
 **I have more, they are just on another computer. I will make those changes to this as soon as I can.**
 
