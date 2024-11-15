@@ -18,7 +18,7 @@ You can probably buy a large kit of small screws on Amazon. If you want to indiv
 
 Tactile Switches (Working on finding the exact ones)
 
-1200 mAh battery (Will post exact amazon link soon, but I have a temporaray Adafruit version.)
+1200 mAh battery (Needs to be roughly the same form factor or smaller. This can keep the system powered for over 3 hours.)
 
 DS Lite buttons and silicone pads (Any color or manufacturer will work, they just need to be DS Lite)
 
@@ -28,6 +28,8 @@ Sound Card (You need to make some modifications to this one, it is also the exac
 
 3D Printed Parts (As of now, these are the exact same as the ones used in the v2, credits to wermy for creating it.
                     You can print these on your own, or most public libraries have printers now.)
+
+Speaker: 20mm diameter 0.5W 8 Ohm (According to the v2 wiki, there is space for anything under 3.5 mm)
 
 **I have more, they are just on another computer. I will make those changes to this as soon as I can.**
 
@@ -50,8 +52,11 @@ No link yet :/
 DS Lite Buttons:
 https://www.amazon.com/NSLikey-Button-Conductive-Nintendo-Replacement/dp/B09C5G818C/ref=sr_1_2?crid=3PP7Q21L01KWR&dib=eyJ2IjoiMSJ9.DqHWdEz4YzcHSGEK2AFpxe-QhKxYMbpQgPOwL5sMNWNFhTJ1N9MrhIafkANhz4MXA2wmM5HusVgMKn4MmSn_XHPHVN1u7vLRpUgJlIrbLO_aK8KDE5Jlwm07ChHC3TyID8u6bKe7xfQFoZGO-PUeIe6nOkpTFTAy7FnTlIY6Bx9BeQ3WURuw4XrV9OkWXQnQPO0Bf6htGBrMTygQaM67m37mmhV1bzvM9srsK8e3DP4.PN8fP1JJHcd-NeNaLqc5AKKe0dlXpIpNxUEDHpa68VE&dib_tag=se&keywords=DS+lite+buttons&qid=1731627995&sprefix=ds+lite+button%2Caps%2C233&sr=8-2
 
-1200 mAh battery (Temporary Adafruit):
+1200 mAh battery (Adafruit Version):
 https://www.adafruit.com/product/258
+
+1200 mAh battery (Amazon):
+https://www.amazon.com/Octelect-1200mAh-Battery-Rechargeable-Connector/dp/B0B1HQZMNM/ref=sr_1_8?crid=SLJ4V153BK4R&dib=eyJ2IjoiMSJ9.0xAkMnFIvm3Q8WmB976KPIXha9qOJBDbHuPkFSGPv4S-3CdVre13Q-DpsTBK-5eSNGHzfybe_zSzuHZ74-i-Jsy683ZJsp527dXr_R1Xu-WBRI4n_a1uidj7iaiA5SwKWWo8J4SDYXmK5JWP8VZ57PX8V5F9QctpBTFS-V5P1AHbtVVgNg9Nlqz0LKcrGLiOhoSHX7uWJ-igrfFSE1WyyEIjW1-JWR_3EnKsL77LluJuzMzTGKVKxkT4pe1XqVplIt-iq9l4z0N2IQjblxSgvu45Q3SDdp6DJuO5glC_y7Y.I67C1ncXHVCYMW2tFXHnpSb0qearYv_FrkO58EQfp_c&dib_tag=se&keywords=1200+mah+lipo+battery+3.7+v&qid=1731682116&sprefix=1200+mah+lipo+battery+3.7+%2Caps%2C110&sr=8-8
 
 Micro SD Card:
 https://www.amazon.com/Micro-Adapter-Memory-Tablet-Camera/dp/B0DBLWVSM8/ref=sr_1_1?crid=2MZKLX6M4G1X4&dib=eyJ2IjoiMSJ9.U2BtcwXW4yJEcjtANO01ZA2cd43v-eiZoc1eYLeczMhBoWNBri0fyIt50f2gB2fXk0yewkXe2nn1WMYOTzAqkKbTd6Z7r5e1tQBGJrlCfK4Fx0QpsJGo6AggNiHCxvge3Ov23HjYr32DpH0mtCWRFjzTH9kCx8svudD-9L2LWLnwRjKZ3f7oSvP66LPIcOl2cb68fUNICMpHiJUtx6OziPK1PiwkgN-27eXg1bNJnRtEXGmx4BhLwkumCZ3IV_eufr1uKEC7_qZlJTLcu77LjEjfp3LO5n-1N1BW64uN2OU.cdDvbxSOnbbiwB4CmD_7YwXZysPLT8Gdmd8DiK3P8oc&dib_tag=se&keywords=Micro%2Bsd%2Bcard&qid=1731628083&refinements=p_n_feature_two_browse-bin%3A6518302011%7C6518303011&rnid=6518301011&s=electronics&sprefix=micro%2Bsd%2Bcar%2Caps%2C327&sr=1-1&th=1
