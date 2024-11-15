@@ -22,7 +22,9 @@ Tactile Switches (Working on finding the exact ones)
 
 DS Lite buttons and silicone pads (Any color or manufacturer will work, they just need to be DS Lite)
 
+Charging Circuit (USB C, but you CAN use a identical micro usb version)
 
+Sound Card (You need to make some modifications to this one, it is also the exact one used in the original MintyPi v2.)
 
 
 **I have more, they are just on another computer. I will make those changes to this as soon as I can.**
@@ -52,4 +54,8 @@ No link yet :/
 Micro SD Card:
 https://www.amazon.com/Micro-Adapter-Memory-Tablet-Camera/dp/B0DBLWVSM8/ref=sr_1_1?crid=2MZKLX6M4G1X4&dib=eyJ2IjoiMSJ9.U2BtcwXW4yJEcjtANO01ZA2cd43v-eiZoc1eYLeczMhBoWNBri0fyIt50f2gB2fXk0yewkXe2nn1WMYOTzAqkKbTd6Z7r5e1tQBGJrlCfK4Fx0QpsJGo6AggNiHCxvge3Ov23HjYr32DpH0mtCWRFjzTH9kCx8svudD-9L2LWLnwRjKZ3f7oSvP66LPIcOl2cb68fUNICMpHiJUtx6OziPK1PiwkgN-27eXg1bNJnRtEXGmx4BhLwkumCZ3IV_eufr1uKEC7_qZlJTLcu77LjEjfp3LO5n-1N1BW64uN2OU.cdDvbxSOnbbiwB4CmD_7YwXZysPLT8Gdmd8DiK3P8oc&dib_tag=se&keywords=Micro%2Bsd%2Bcard&qid=1731628083&refinements=p_n_feature_two_browse-bin%3A6518302011%7C6518303011&rnid=6518301011&s=electronics&sprefix=micro%2Bsd%2Bcar%2Caps%2C327&sr=1-1&th=1
 
+Charging Circuit:
+https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG/ref=sr_1_1?crid=1BM7RQM9F63UD&dib=eyJ2IjoiMSJ9.C7YBeaEjtX7XOeShi6fptTuP6adFDaRYbNL4nXkSKUM_EAeltgRoKpp6aPEJez2VyShOp_AW0IHDOs07ExIa6Lj-ZhCkUzz5iGw3wCAd0oUk6sMBdMvzfE3e3PSqCN4D4DYYSunsiurgzmFIX3-sPdXaII8vvU7w-wS18pEJVn32vHuAr952LHP5IAU89ekjoaTewuBK03d8vKivRUXg6DCn7tpxDdFwPUmLf-vlbLkdNgx3LUcNdIk24iK8QOg4tzCdB8TbmSg7ZDC4HO8oQBMl-cPe77yT0EcqNlnLafM.CfJPUgt68RwiXHKEFPe4NewoWLxXsAQFL89YhA0kBEI&dib_tag=se&keywords=Type-C+USB+4.5-5.5V+1A+Battery+Charger+module&qid=1731680373&s=electronics&sprefix=type-c+usb+4.5-5.5v+1a+battery+charger+module%2Celectronics%2C83&sr=1-1
 
+Sound Card:
+https://www.amazon.com/gp/product/B01CZQAIB2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZQAIB2&linkCode=as2&tag=sudomod-20&linkId=f237de06019d365952445d9a2d9cdd41
