@@ -31,8 +31,14 @@ Sound Card (You need to make some modifications to this one, it is also the exac
 
 Speaker: 20mm diameter 0.5W 8 Ohm (According to the v2 wiki, there is space for anything under 3.5 mm)
 
-**I have more, they are just on another computer. I will make those changes to this as soon as I can.**
+Wire: You dont need much, just enough to connect a lot of stuff up.
 
+Strong Double Sided Tape: This is used for keeping things in their spot and it IS important. wermy used VHB tape from 3M in his model, although he said that plain scotch tape might work. (I reccommend spending an extra couple dollars and getting the VHB tape.)
+
+Kapton Tape: This is a precation to make sure that none of the exposed metal on the electronics touches the metal tin and potentially shorts out.
+
+
+**I have more, they are just on another computer. I will make those changes to this as soon as I can.**
 
 
 # LINKS
@@ -67,4 +73,9 @@ https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8
 Sound Card:
 https://www.amazon.com/gp/product/B01CZQAIB2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZQAIB2&linkCode=as2&tag=sudomod-20&linkId=f237de06019d365952445d9a2d9cdd41
 
+VHB tape:
+https://www.amazon.com/3M-Heavy-Mounting-width-length/dp/B007Y7H5GO/ref=asc_df_B007Y7H5GO?mcid=4b15e126715e3d268cf09b8102eac24c&tag=hyprod-20&linkCode=df0&hvadid=693627420164&hvpos=&hvnetw=g&hvrand=16629117578041033685&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021615&hvtargid=pla-312787921107&psc=1
+
+Kapton tape:
+https://www.amazon.com/Temperature-Kapton-Professional-Protecting-Circuit/dp/B07RZYY2T1/ref=sr_1_2_sspa?crid=TAOD28D784HO&dib=eyJ2IjoiMSJ9.BR8b0rjsJ2DIJS7axSqrWU9WR-gB_s7IXKeMn9b1RayTYsMt7P5akGCUyRhmNU2iTMMi0tUpVrDzhcB4oz5HwBgD1ifqW7yES8Aw26s6kE2LeAvoJ17IvfRqsk8qeetG8NTiWLHxXU6tRr6OdK9LX826MN-PIlAUoA9WxrmlMsbMy_kiNQt3IrOkI9I-fFSj7RNFs3X0I8XPO9xeBjVKrftz2vJAatT-Hk9Oh99TseIKld4lBLVvG1CgobOZ4GSxwK3adEFanAir38KDZFI_1AqqFygip2VNucgHrPVHiYw.XHzkC5ohbhSdTiH0rMyxeGUeIaWIoCrkrUCHNmHWdFo&dib_tag=se&keywords=kapton+tape&qid=1731692641&s=industrial&sprefix=kap%2Cindustrial%2C224&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
