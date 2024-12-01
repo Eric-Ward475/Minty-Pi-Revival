@@ -2,7 +2,7 @@
 
 1: How to connect the display to the Pi
 
-2: Recreating the button pcb
+2: Recreating the button pcb (I found someone on reddit, who did this, I dmed them to try and get the design)
 
 3: Modifying the printable files
 
